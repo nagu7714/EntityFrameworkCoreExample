@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/EFCore/.vs/EFCore
+/EFCore/EFCore/bin/Debug/net5.0
+/EFCore/EFCore/obj
+/EFCoreFluentAPI/bin/Debug/net5.0
+/EFCoreFluentAPI/obj/Debug/net5.0
+/EFCoreFluentAPI/obj
